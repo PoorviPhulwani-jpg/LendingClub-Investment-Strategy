@@ -16,5 +16,18 @@ To maximize investment returns while managing credit risk by identifying borrowe
 - **Optimization**: Sharpe Ratio, Return-Risk tradeoff modeling
 - **Data Source**: LendingClub loan data (public dataset)
 
-## 📁 Project Structure
+## Project Structure
 
+## Results
+
+| Strategy | Avg Return | Risk (Std Dev) | Sharpe Ratio |
+|----------|------------|----------------|---------------|
+| Final Portfolio | 4.42% | Balanced | Highest |
+
+## Business Value
+
+This project simulates how a data analyst or investment strategist could segment risk, quantify return, and guide real-world lending decisions using statistical models — making it highly relevant to finance, asset management, and risk teams.
+
+## ontact
+
+For questions or collaboration opportunities, reach out via [LinkedIn](https://linkedin.com/in/poorviphulwani) or email at **pphulwan@tepper.cmu.edu**.
