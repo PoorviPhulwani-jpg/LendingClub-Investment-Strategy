@@ -16,14 +16,6 @@ To maximize investment returns while managing credit risk by identifying borrowe
 - **Optimization**: Sharpe Ratio, Return-Risk tradeoff modeling
 - **Data Source**: LendingClub loan data (public dataset)
 
-## Project Structure
-LendingClub-Investment-Strategy/
-├── data/           # Raw and processed LendingClub datasets
-├── notebooks/      # Update 1, 2, and 3 Jupyter Notebooks
-├── results/        # Final portfolio summaries and evaluation
-├── plots/          # Visualizations (cluster maps, Sharpe ratio graphs)
-└── README.md       # This file
-
 ## Results
 | Strategy | Avg Return | Risk (Std Dev) | Sharpe Ratio |
 |----------|------------|----------------|---------------|
